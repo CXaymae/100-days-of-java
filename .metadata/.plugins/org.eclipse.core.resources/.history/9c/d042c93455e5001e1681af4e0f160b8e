@@ -1,0 +1,14 @@
+package Day2;
+
+public class Day2 {
+	public static void main(String[] args) {
+        int entier = 20;
+        double decimale = 13000.5;
+        String chaine = "CXaymae";
+        
+        System.out.println("This is an integer" + entier);
+        System.out.println("This is a double" + decimale);
+        System.out.println("This is a string" + chaine);
+    }
+
+}
